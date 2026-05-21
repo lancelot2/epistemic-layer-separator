@@ -2,7 +2,7 @@
 
 **A Claude Code skill that separates established facts, inferences, and speculations — before synthesising a response.**
 
-MIT License · Built for [Claude Code](https://claude.ai/code)
+MIT License ·
 
 ---
 
@@ -16,7 +16,7 @@ LLMs blend three epistemic categories into flat, uniformly confident prose:
 - "highest willingness-to-pay" → inference, not data
 - "PLG will outperform" → speculation
 
-The reader — or a downstream agent — can't tell which is which.
+The reader - or a downstream agent — can't tell which is which.
 
 ---
 
@@ -33,7 +33,7 @@ The reader — or a downstream agent — can't tell which is which.
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/epistemic-layer-separator.git
+git clone https://github.com/lancelot2/epistemic-layer-separator.git
 cd epistemic-layer-separator
 ```
 
